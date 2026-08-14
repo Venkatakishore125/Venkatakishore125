@@ -24,6 +24,7 @@ I enjoy solving real-world problems using technology, working with data, and dev
 * Html
 * CSS
 * C
+  
 **Data Science & Machine Learning**
 
 * Data Analysis
