@@ -15,10 +15,10 @@ I enjoy learning how to turn raw data into useful information and building pract
 ## Skills and tools
 
 **Programming:** Python, C, HTML, CSS  
-**Data work:** Pandas, NumPy, data cleaning, exploratory data analysis, data visualisation, SQL (add only if comfortable discussing it in an interview)  
-**Machine learning:** scikit-learn, Random Forest, anomaly detection  
-**Other areas:** IoT, network traffic analysis, augmented reality  
-**Tools:** Jupyter Notebook, Git, GitHub
+**Data work:** Pandas, NumPy, data cleaning, exploratory data analysis and data visualisation  
+**Machine learning:** scikit-learn, Random Forest and anomaly detection  
+**Other areas:** IoT, network traffic analysis and augmented reality  
+**Tools:** Jupyter Notebook, Git and GitHub
 
 ## Selected projects
 
@@ -38,7 +38,7 @@ An academic project exploring network-traffic monitoring and intrusion detection
 [View the project](https://github.com/Venkatakishore125/AI-Based-IoT-Intrusion-Detection-and-Network-Traffic-Analysis)
 
 ### 4. Hands-On Data Analysis with Python
-A beginner-friendly notebook where I load a sample sales dataset, check data quality, calculate revenue, group results and create visualisations using Pandas and Python.
+A notebook where I load a sample sales dataset, check data quality, calculate revenue, group results and create visualisations using Pandas and Python.
 
 [View HandsOnDataLab](https://github.com/Venkatakishore125/HandsOnDataLab)
 
