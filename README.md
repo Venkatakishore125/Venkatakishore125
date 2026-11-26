@@ -1,87 +1,64 @@
-# Hi 👋, I'm Venkata Kishore Seelam
+# Hi, I'm Venkata Kishore Seelam
 
-### B.Tech CSE Graduate | Data Science & Machine Learning Enthusiast
+**B.Tech in Computer Science and Engineering (Data Science) | Python | Data Analytics | Machine Learning**
 
-I'm a Computer Science Engineering graduate from **GITAM Deemed University**, with a strong interest in **Data Science, Machine Learning, Python, IoT, and Artificial Intelligence**.
+I enjoy learning how to turn raw data into useful information and building practical projects with Python and machine learning. Most of my work so far has been through academic and hands-on projects, where I have explored data analysis, data collection, IoT security and application development.
 
-I enjoy solving real-world problems using technology, working with data, and developing practical solutions through programming and machine learning.
+## A little about me
 
-## 🚀 About Me
+- 🎓 B.Tech, Computer Science and Engineering (Data Science), GITAM Deemed University
+- 📊 Interested in data analytics, data science and data engineering
+- 🐍 Working with Python and common data-science libraries
+- 🤖 Exploring machine learning and practical AI applications
+- 💼 Interested in entry-level opportunities where I can keep learning and contribute to a team
 
-* 🎓 B.Tech in Computer Science Engineering – **GITAM Deemed University**
-* 📊 Interested in **Data Science & Data Analytics**
-* 🤖 Passionate about **Machine Learning & Artificial Intelligence**
-* 🐍 Experienced with **Python Programming**
-* 💡 Interested in solving real-world problems through technology
-* 👥 Experienced in team collaboration and project leadership
-* 🔎 Open to opportunities in **Data Science, Machine Learning, and Software Development**
+## Skills and tools
 
-## 🛠️ Technical Skills
+**Programming:** Python, C, HTML, CSS  
+**Data work:** Pandas, NumPy, data cleaning, exploratory data analysis, data visualisation, SQL (add only if comfortable discussing it in an interview)  
+**Machine learning:** scikit-learn, Random Forest, anomaly detection  
+**Other areas:** IoT, network traffic analysis, augmented reality  
+**Tools:** Jupyter Notebook, Git, GitHub
 
-**Programming Languages**
+## Selected projects
 
-* Python
-* Html
-* CSS
-* C
-  
-**Data Science & Machine Learning**
+### 1. GraphOne – Data Intelligence
+A Python data pipeline project for collecting and organising information about AI companies, products, research, news and jobs. It includes source-level data collection, deduplication, entity matching and structured exports.
 
-* Data Analysis
-* Machine Learning
-* Random Forest
-* Isolation Forest
-* Reinforcement Learning
+[View GraphOne](https://github.com/Venkatakishore125/GraphOne-Data-Intelligence)
 
-**Other Areas**
+### 2. Reusable Asset Return and Tracking System
+A data-focused project that generates and validates records for reusable assets, shipments, custody events, returns, inspections and related operations. It uses synthetic data to explore business rules and data quality.
 
-* Internet of Things (IoT)
-* Augmented Reality (AR)
-* Problem Solving
-* Data Analytics
+[View the project](https://github.com/Venkatakishore125/Reusable-Asset-Return-and-Tracking-System-)
 
-## 📌 Featured Projects
+### 3. AI-Based IoT Intrusion Detection and Network Traffic Analysis
+An academic project exploring network-traffic monitoring and intrusion detection with machine-learning and rule-based checks, with a Streamlit dashboard.
 
-### 🚗 Automatic Reverse Car Parking Alarm Sensor
+[View the project](https://github.com/Venkatakishore125/AI-Based-IoT-Intrusion-Detection-and-Network-Traffic-Analysis)
 
-A smart reverse parking assistance system designed to improve driver safety by detecting nearby obstacles and providing warning alerts.
+### 4. Hands-On Data Analysis with Python
+A beginner-friendly notebook where I load a sample sales dataset, check data quality, calculate revenue, group results and create visualisations using Pandas and Python.
 
-**Key Highlights:**
+[View HandsOnDataLab](https://github.com/Venkatakishore125/HandsOnDataLab)
 
-* Obstacle detection
-* Sound-based warning alerts
-* Parking safety assistance
-* Team-based project with project leadership experience
+### 5. AR-Enabled Diwali Greeting Cards
+An academic project exploring an augmented-reality concept for interactive Diwali greetings. The repository currently contains the report and documentation, rather than a complete runnable Unity project.
 
-### 🤖 AI-Based IoT Intrusion Detection & Network Traffic Analysis
+[View the project](https://github.com/Venkatakishore125/AR-Enabled-Diwali-Greeting-cards)
 
-An IoT security project that uses Machine Learning techniques to analyze network traffic, detect potential cyber attacks, and identify anomalies.
+### 6. Automatic Reverse Car Parking Alarm Sensor
+An academic hardware project focused on detecting nearby obstacles while reversing and providing an alert to help the driver judge distance.
 
-**Technologies & Concepts:**
+[View the project](https://github.com/Venkatakishore125/Automatic-Reverse-Car-Parking-Alarm-Sensor)
 
-* Python
-* Random Forest
-* Isolation Forest
-* Reinforcement Learning
-* Network Traffic Analysis
-* Anomaly Detection
+## What I'm working on
 
-### 🪔 AR-Enabled Diwali Greeting Cards
+I am continuing to improve my Python, data analysis and machine-learning skills by building projects, reviewing results and making my code easier for others to understand and run.
 
-An Augmented Reality based project designed to create interactive and engaging Diwali greeting cards using AR technology.
+## Connect
 
-## 📚 Areas of Interest
+- GitHub: [@Venkatakishore125](https://github.com/Venkatakishore125)
+- LinkedIn: [Venkat Kishore Seelam](https://www.linkedin.com/in/venkatakishoreseelam/)
 
-* Data Science
-* Machine Learning
-* Data Analytics
-* Artificial Intelligence
-* Python
-* IoT
-* AR Technologies
-
-## 🤝 Let's Connect
-
-I'm interested in learning new technologies, collaborating on innovative projects, and exploring opportunities where I can apply my technical and problem-solving skills.
-
-**Thanks for visiting my profile! 🚀**
+Thanks for stopping by. Feel free to explore the repositories.
